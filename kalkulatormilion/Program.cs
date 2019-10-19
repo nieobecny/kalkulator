@@ -15,6 +15,13 @@ namespace kalkulatormilion
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("0. Wyjscie");
                 Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("1. Add");
                 
 
                 
